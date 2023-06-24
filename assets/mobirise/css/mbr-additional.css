@@ -788,6 +788,27 @@ a {
 .cid-tHXX0BDBa1 .card-box {
   color: #000000;
 }
+.cid-tI3wgUIRaa {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tI3wgUIRaa img {
+  width: 120px;
+  margin: auto;
+}
+.cid-tI3wgUIRaa .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-tI3wgUIRaa .card {
+    max-width: 12.5%;
+  }
+}
 .cid-tHXlN1b0Us {
   z-index: 1000;
   width: 100%;
