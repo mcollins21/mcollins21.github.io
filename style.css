@@ -53,3 +53,12 @@ h2 {
 .contact a {
     color: #007bff;
 }
+
+.awards ul {
+    list-style: none;
+    padding: 0;
+}
+
+.awards li {
+    margin-bottom: 15px;
+}
