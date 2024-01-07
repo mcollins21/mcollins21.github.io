@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 20px;
+    color: black;
+    background-color: #e3f2fd; /* Or any other color you prefer */
 }
 
 header {
@@ -22,6 +24,36 @@ h2 {
     padding: 15px;
     margin-bottom: 20px;
 }
+
+.about.box {
+    background-color: #bbdefb;
+}
+
+.skills.box {
+    background-color: #90caf9;
+}
+
+.experience.box {
+    background-color: #64b5f6;
+}
+
+.education.box {
+    background-color: #42a5f5;
+}
+
+.projects.box {
+    background-color: #2196f3;
+}
+
+.awards.box {
+    background-color: #1e88e5;
+}
+
+.contact.box {
+    background-color: #1976d2;
+}
+
+/* Apply similar rules for other sections */
 
 .about p {
     font-size: 1.1em;
@@ -51,7 +83,7 @@ h2 {
 }
 
 .contact a {
-    color: #007bff;
+    color: black;
 }
 
 .awards ul {
