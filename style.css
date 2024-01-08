@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 20px;
     color: black;
-    background-color: #e3f2fd; /* Or any other color you prefer */
+    background-color: white; /* Or any other color you prefer */
 }
 
 header {
@@ -26,31 +26,31 @@ h2 {
 }
 
 .about.box {
-    background-color: #bbdefb;
+    background-color: white;
 }
 
 .skills.box {
-    background-color: #90caf9;
+    background-color: white;
 }
 
 .experience.box {
-    background-color: #64b5f6;
+    background-color: white;
 }
 
 .education.box {
-    background-color: #42a5f5;
+    background-color: white;
 }
 
 .projects.box {
-    background-color: #2196f3;
+    background-color: white;
 }
 
 .awards.box {
-    background-color: #1e88e5;
+    background-color: white;
 }
 
 .contact.box {
-    background-color: #1976d2;
+    background-color: white;
 }
 
 /* Apply similar rules for other sections */
@@ -86,15 +86,16 @@ h2 {
     color: black;
 }
 
+/* cleared formating for awards list */
 .awards ul {
-    list-style: none;
-    padding: 0;
+
 }
 
 .awards li {
     margin-bottom: 15px;
 }
 
+/* cleared formating for projects lists */
 .projects ul {
 
 }
